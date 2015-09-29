@@ -21,10 +21,14 @@
   "dependencies": {
     "angular": "~1.4.6",
     "angular-animate": "~1.4.6",
+    "angular-isotope": "~0.1.14",
     "angular-route": "~1.4.6",
     "animate.css": "~3.4.0",
     "bootstrap": "~3.3.5",
     "font-awesome": "fontawesome#~4.4.0",
     "jquery": "~2.1.4"
+  },
+  "resolutions": {
+    "angular": "1.4.6"
   }
 }
