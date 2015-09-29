@@ -1,0 +1,21 @@
+{
+  "name": "isotowl",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Haardvuur/isotowl",
+  "authors": [
+    "Philippe Gevaert <philippe.gevaert@redtree.be>"
+  ],
+  "description": "A poc for angular isotope and owl carrousel",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
